@@ -1,0 +1,16 @@
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.Cache
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Add_Student.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Student.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Dashboard.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Advisor.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Project.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Student_Group.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Show_Student_Group.resources
+C:\Users\Nauman Malik\Downloads\ProjectA\ProjectA\ProjectA\obj\Debug\ProjectA.Manage_Project_Advisor.resources
